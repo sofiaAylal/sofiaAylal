@@ -1,17 +1,20 @@
 # Portfolio Étudiant
 
-Bienvenue sur mon portfolio ! Je suis étudiant en informatique à l'Université de Technologie de Brno (BUT) et passionné par le développement de logiciels et la technologie. Vous trouverez ci-dessous un aperçu de mes projets, compétences, formation et moyens de me contacter.
+Bienvenue sur mon portfolio ! Je suis étudiante en informatique à l'IUT du Limousin de Limoges et passionnée par le développement de logiciels et la technologie. Vous trouverez ci-dessous un aperçu de mes projets, compétences, ainsi que ma formation.
 
 ## Projets
 
 ### Projet 1 : Showcase de Développement Web
 Description : Une application web responsive mettant en valeur mes compétences en HTML, CSS et JavaScript.
+Statut : En cours
 
 ### Projet 2 : Lancer de rayons
-Description : Un outil Python pour l'analyse et la visualisation de données utilisant pandas et matplotlib.
+Description : Un outil C++ pour simuler un lancer de rayons 
+Statut : En cours...
 
 ### Projet 3 : Application Mobile
-Description : Une application Android développée en Java pour la gestion des tâches et des plannings.
+Description : Une application Android développée en .NET MAUI pour la météo
+Statut : En cours...
 
 ## Compétences
 
@@ -23,8 +26,8 @@ Description : Une application Android développée en Java pour la gestion des t
 
 ## Formation
 
-- BUT Informatique, IUT du Limousin, Diplôme Attendu : 2025
-- Cours Pertinents : Algorithmes et Structures de Données, Développement Web, Systèmes de Bases de Données
+- BUT Informatique, IUT du Limousin, diplôme attendu : 2025
+- BAC Général, Lycée GAY LUSSAC, diplôme : 2022
 
 ## Contact
 
